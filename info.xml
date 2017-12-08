@@ -1,0 +1,372 @@
+<root>
+  <joint name="GestureType">
+    <type>Dynamic</type>
+  </joint>
+<joint name="TotalCollisions">
+    <type>70</type>
+  </joint>
+  <joint name="HandLength">
+    <length>0.4459284</length>
+  </joint>
+  <joint name="ShoulderWidth">
+    <length>0.3176982</length>
+  </joint>
+  <joint name="HeadPos">
+    <length>0.8907133</length>
+  </joint>
+  <joint name="AngleAdjust">
+    <length>-0.5594131</length>
+  </joint>
+  <joint name="HeadInitial">
+    <x>-0.05463994</x>
+    <y>0.8907133</y>
+    <z>2.614705</z>
+  </joint>
+  <joint name="HandLeftInitial">
+    <x>-0.3343642</x>
+    <y>0.1122189</y>
+    <z>2.483732</z>
+    <angle>14.8661</angle>
+  </joint>
+  <joint name="HandRightInitial">
+    <x>0.1205541</x>
+    <y>0.110271</y>
+    <z>2.463125</z>
+    <angle>13.84429</angle>
+  </joint>
+  <joint name="FootLeftInitial">
+    <x>-0.1935008</x>
+    <y>-0.5594131</y>
+    <z>2.512033</z>
+  </joint>
+  <joint name="FootRightInitial">
+    <x>0.003860697</x>
+    <y>-0.4821815</y>
+    <z>2.406626</z>
+  </joint>
+  
+  <joint name="Head2">
+    <x>-0.0542574</x>
+    <y>0.8882122</y>
+    <z>2.588759</z>
+  </joint>
+  <joint name="HandLeft2">
+    <x>-0.3219284</x>
+    <y>0.1024682</y>
+    <z>2.457897</z>
+    <angle>13.94325</angle>
+  </joint>
+  <joint name="HandRight2">
+    <x>0.09955733</x>
+    <y>0.07031102</y>
+    <z>2.429511</z>
+    <angle>13.42381</angle>
+  </joint>
+  <joint name="FootLeft2">
+    <x>-0.1418468</x>
+    <y>-0.5763078</y>
+    <z>2.527534</z>
+  </joint>
+  <joint name="FootRight2">
+    <x>-0.05874634</x>
+    <y>-0.5283203</y>
+    <z>2.527344</z>
+  </joint>
+  <joint name="Head3">
+    <x>-0.05604508</x>
+    <y>0.8803235</y>
+    <z>2.577974</z>
+  </joint>
+  <joint name="HandLeft3">
+    <x>-0.3242783</x>
+    <y>0.1102018</y>
+    <z>2.453321</z>
+    <angle>14.10219</angle>
+  </joint>
+  <joint name="HandRight3">
+    <x>0.1003736</x>
+    <y>0.07507232</y>
+    <z>2.418228</z>
+    <angle>13.86288</angle>
+  </joint>
+  <joint name="FootLeft3">
+    <x>-0.1382256</x>
+    <y>-0.5808748</y>
+    <z>2.471303</z>
+  </joint>
+  <joint name="FootRight3">
+    <x>-0.06815274</x>
+    <y>-0.5451266</y>
+    <z>2.480696</z>
+  </joint>
+  <joint name="Head4">
+    <x>-0.06401547</x>
+    <y>0.828469</y>
+    <z>2.558889</z>
+  </joint>
+  <joint name="HandLeft4">
+    <x>-0.4877389</x>
+    <y>0.09366071</y>
+    <z>2.481725</z>
+    <angle>29.02179</angle>
+  </joint>
+  <joint name="HandRight4">
+    <x>0.2615258</x>
+    <y>0.07426976</y>
+    <z>2.430056</z>
+    <angle>24.13353</angle>
+  </joint>
+  <joint name="FootLeft4">
+    <x>-0.2189377</x>
+    <y>-0.490097</y>
+    <z>2.378139</z>
+  </joint>
+  <joint name="FootRight4">
+    <x>-0.08537901</x>
+    <y>-0.5872921</y>
+    <z>2.455602</z>
+  </joint>
+  <joint name="Head5">
+    <x>-0.05623654</x>
+    <y>0.9832672</y>
+    <z>2.572988</z>
+  </joint>
+  <joint name="HandLeft5">
+    <x>-0.6317886</x>
+    <y>0.6231495</y>
+    <z>2.562597</z>
+    <angle>74.34922</angle>
+  </joint>
+  <joint name="HandRight5">
+    <x>0.4638364</x>
+    <y>0.5617483</y>
+    <z>2.53655</z>
+    <angle>66.87872</angle>
+  </joint>
+  <joint name="FootLeft5">
+    <x>-0.2348506</x>
+    <y>-0.556427</y>
+    <z>2.438264</z>
+  </joint>
+  <joint name="FootRight5">
+    <x>0.03291594</x>
+    <y>-0.4084012</y>
+    <z>2.529462</z>
+  </joint>
+  <joint name="Head6">
+    <x>-0.05600842</x>
+    <y>1.018391</y>
+    <z>2.573377</z>
+  </joint>
+  <joint name="HandLeft6">
+    <x>-0.7000982</x>
+    <y>1.014973</y>
+    <z>2.587548</z>
+    <angle>115.2388</angle>
+  </joint>
+  <joint name="HandRight6">
+    <x>0.5236362</x>
+    <y>0.9165123</y>
+    <z>2.556988</z>
+    <angle>106.6016</angle>
+  </joint>
+  <joint name="FootLeft6">
+    <x>-0.3335168</x>
+    <y>-0.3924309</y>
+    <z>2.368493</z>
+  </joint>
+  <joint name="FootRight6">
+    <x>0.05236118</x>
+    <y>-0.3163144</y>
+    <z>2.518187</z>
+  </joint>
+  <joint name="Head7">
+    <x>-0.06464538</x>
+    <y>0.9442433</y>
+    <z>2.570833</z>
+  </joint>
+  <joint name="HandLeft7">
+    <x>-0.3782277</x>
+    <y>1.186946</y>
+    <z>2.563697</z>
+    <angle>159.8608</angle>
+  </joint>
+  <joint name="HandRight7">
+    <x>0.2899229</x>
+    <y>1.194073</y>
+    <z>2.538822</z>
+    <angle>155.5113</angle>
+  </joint>
+  <joint name="FootLeft7">
+    <x>-0.441723</x>
+    <y>-0.489197</y>
+    <z>2.557757</z>
+  </joint>
+  <joint name="FootRight7">
+    <x>0.2675731</x>
+    <y>-0.1711741</y>
+    <z>2.43795</z>
+  </joint>
+  <joint name="Head8">
+    <x>-0.06410901</x>
+    <y>0.7989554</y>
+    <z>2.566322</z>
+  </joint>
+  <joint name="HandLeft8">
+    <x>-0.1177566</x>
+    <y>1.13104</y>
+    <z>2.56109</z>
+    <angle>170.5231</angle>
+  </joint>
+  <joint name="HandRight8">
+    <x>0.0166542</x>
+    <y>1.125041</y>
+    <z>2.537719</z>
+    <angle>171.382</angle>
+  </joint>
+  <joint name="FootLeft8">
+    <x>-0.4599749</x>
+    <y>-0.5273043</y>
+    <z>2.416077</z>
+  </joint>
+  <joint name="FootRight8">
+    <x>0.3630113</x>
+    <y>-0.2825246</y>
+    <z>2.452214</z>
+  </joint>
+  <joint name="Head9">
+    <x>-0.05552527</x>
+    <y>0.8149824</y>
+    <z>2.582656</z>
+  </joint>
+  <joint name="HandLeft9">
+    <x>-0.3543481</x>
+    <y>1.082803</y>
+    <z>2.566134</z>
+    <angle>162.2509</angle>
+  </joint>
+  <joint name="HandRight9">
+    <x>0.2623736</x>
+    <y>1.07579</y>
+    <z>2.553407</z>
+    <angle>158.9355</angle>
+  </joint>
+  <joint name="FootLeft9">
+    <x>-0.4125362</x>
+    <y>-0.3865577</y>
+    <z>2.547686</z>
+  </joint>
+  <joint name="FootRight9">
+    <x>0.1792207</x>
+    <y>-0.3841895</y>
+    <z>2.250839</z>
+  </joint>
+  <joint name="Head10">
+    <x>-0.05395453</x>
+    <y>0.9539621</y>
+    <z>2.572196</z>
+  </joint>
+  <joint name="HandLeft10">
+    <x>-0.594209</x>
+    <y>0.979793</y>
+    <z>2.616169</z>
+    <angle>120.1748</angle>
+  </joint>
+  <joint name="HandRight10">
+    <x>0.5967498</x>
+    <y>0.9785277</y>
+    <z>2.610136</z>
+    <angle>114.4612</angle>
+  </joint>
+  <joint name="FootLeft10">
+    <x>-0.3948365</x>
+    <y>-0.417691</y>
+    <z>2.471645</z>
+  </joint>
+  <joint name="FootRight10">
+    <x>0.21543</x>
+    <y>-0.4479425</y>
+    <z>2.375821</z>
+  </joint>
+  <joint name="Head11">
+    <x>-0.05485998</x>
+    <y>1.007628</y>
+    <z>2.556166</z>
+  </joint>
+  <joint name="HandLeft11">
+    <x>-0.633203</x>
+    <y>0.6538622</y>
+    <z>2.636743</z>
+    <angle>70.78466</angle>
+  </joint>
+  <joint name="HandRight11">
+    <x>0.443883</x>
+    <y>0.5531719</y>
+    <z>2.601325</z>
+    <angle>56.84323</angle>
+  </joint>
+  <joint name="FootLeft11">
+    <x>-0.2953973</x>
+    <y>-0.4551824</y>
+    <z>2.526837</z>
+  </joint>
+  <joint name="FootRight11">
+    <x>0.030652</x>
+    <y>-0.4752768</y>
+    <z>2.371868</z>
+  </joint>
+  <joint name="Head12">
+    <x>-0.04687637</x>
+    <y>0.9363498</y>
+    <z>2.551074</z>
+  </joint>
+  <joint name="HandLeft12">
+    <x>-0.5801393</x>
+    <y>0.2671562</y>
+    <z>2.570754</z>
+    <angle>41.00699</angle>
+  </joint>
+  <joint name="HandRight12">
+    <x>0.2869235</x>
+    <y>0.2375613</y>
+    <z>2.535386</z>
+    <angle>25.38157</angle>
+  </joint>
+  <joint name="FootLeft12">
+    <x>-0.1798614</x>
+    <y>-0.5889956</y>
+    <z>2.463012</z>
+  </joint>
+  <joint name="FootRight12">
+    <x>-0.02296828</x>
+    <y>-0.5316049</y>
+    <z>2.337835</z>
+  </joint>
+  <joint name="Head13">
+    <x>-0.04598293</x>
+    <y>0.8731885</y>
+    <z>2.57145</z>
+  </joint>
+  <joint name="HandLeft13">
+    <x>-0.3474432</x>
+    <y>0.09629627</y>
+    <z>2.526471</z>
+    <angle>14.01694</angle>
+  </joint>
+  <joint name="HandRight13">
+    <x>0.1056855</x>
+    <y>0.08781932</y>
+    <z>2.470418</z>
+    <angle>10.51792</angle>
+  </joint>
+  <joint name="FootLeft13">
+    <x>-0.1457408</x>
+    <y>-0.545344</y>
+    <z>2.501196</z>
+  </joint>
+  <joint name="FootRight13">
+    <x>-0.1001669</x>
+    <y>-0.6098323</y>
+    <z>2.495219</z>
+  </joint>
+</root>
